@@ -1,0 +1,25 @@
+Diameter of a Tree
+
+Given an array of unique elements, construct a Binary Search Tree(BST) and
+find the diameter of the tree. Diameter is defined as the number of nodes
+on the longest path between 2 nodes of the tree.
+
+
+Input Format
+
+First line of input contains T - number of test cases. Its followed by 2T
+lines. First line of each test case contains N - number of nodes in the
+BST. The next line contains N unique integers - value of the nodes.
+
+
+Constraints
+
+1 <= T <= 1000
+1 <= N <= 5000
+0 <= ar[i] <= 10000
+
+
+Output Format
+
+For each test case, print the diameter of the Binary Search Tree, separated
+by newline.
